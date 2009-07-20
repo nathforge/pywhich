@@ -1,0 +1,7 @@
+Pywhich: Displays the full path of a Python module.
+         Only supports regular files, i.e unzipped.
+
+e.g:
+    $ pywhich lxml
+    /usr/lib/python2.6/dist-packages/lxml/__init__.py
+
